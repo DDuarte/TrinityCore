@@ -1,6 +1,6 @@
 if (BUILD_SHARED_LIBS)
   set(SRCS
-    src/sfw/Debug.cpp
+    src/efsw/Debug.cpp
     src/efsw/DirectorySnapshot.cpp
     src/efsw/DirectorySnapshotDiff.cpp
     src/efsw/DirWatcherGeneric.cpp
